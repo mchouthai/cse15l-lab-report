@@ -16,4 +16,4 @@ Hello World:
 ```
 Hello World 
 ```
-![Image](dogs.png)
+![Image](https://i.imgur.com/DUMjBVl.png)
