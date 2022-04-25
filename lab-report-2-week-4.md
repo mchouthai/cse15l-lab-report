@@ -7,7 +7,7 @@ Code Change Failure<br>
 Test 1: No brackets around the actual link url.<br>
 [Link](https://raw.githubusercontent.com/mchouthai/markdown-parser/main/test-one.md)<br>
 Reason for bug: The url link needs () brackets around it so that it is recognized as a link in markdown language.<br><br>
-Test 2: Add a new line to the end of the md file using <br>.<br>
+Test 2: Add a new line to the end of the md file using br.<br>
 [Link](https://raw.githubusercontent.com/mchouthai/markdown-parser/main/test-two.md)<br>
 Reason for bug: Adding a new line breaks the code as there is no bracket nor link and the code is designed to find (,),[,] and then print out an output so when it finds nothing it gets confused. <br><br>
 Test 3: Replace [] with ().<br>
