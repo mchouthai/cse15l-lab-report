@@ -8,6 +8,9 @@ Editing .ssh/config file using VS Code <br><br>
 ![Image](https://i.ibb.co/d0HxTZq/Screen-Shot-2022-05-08-at-11-32-37-PM.png)<br><br>
 Connecting to remote server with just ssh ieng6 and transfering a file from local laptop to remote server using scp 'file name' ieng6:~. <br><br>
 ![Image](https://i.ibb.co/f2NTTHP/Screen-Shot-2022-05-08-at-11-43-21-PM.png)<br><br>
+**Option 2: Set up Github Access from ieng6** <br><br>
+
+
 
 
 
