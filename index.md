@@ -5,4 +5,4 @@
 
 
 
-I added the links to the two markdown files instead of my github repo in a hurry so here is the link: https://github.com/mchouthai/cse15l-lab-report.git
+I added the links to the two markdown files instead of my github repo while submitting lab 4 in a hurry so here is the link: https://github.com/mchouthai/cse15l-lab-report.git
