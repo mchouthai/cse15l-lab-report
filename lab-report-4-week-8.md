@@ -12,6 +12,6 @@
 
 **Snippet Three Outcome**<br>
 ![Image]("https://i.ibb.co/XyCJgkD/Screen-Shot-2022-05-30-at-10-18-06-PM.png")<br><br>
-check
+
 
 
